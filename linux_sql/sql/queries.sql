@@ -10,6 +10,6 @@ INSERT INTO host_info (id, hostname, cpu_number, cpu_architecture, cpu_model, cp
 
 -- Insert sample data into host_usage table
 INSERT INTO host_usage ("timestamp", host_id, memory_free, cpu_idel, cpu_kernel, disk_io, disk_available)
-VALUES('2019-05-29 15:00:00.000', 1, 300000, 90, 4, 2, 3);
+    VALUES('2019-05-29 15:00:00.000', 1, 300000, 90, 4, 2, 3);
 INSERT INTO host_usage ("timestamp", host_id, memory_free, cpu_idel, cpu_kernel, disk_io, disk_available)
-VALUES('2019-05-29 15:01:00.000', 1, 200000, 90, 4, 2, 3);
+    VALUES('2019-05-29 15:01:00.000', 1, 200000, 90, 4, 2, 3);
