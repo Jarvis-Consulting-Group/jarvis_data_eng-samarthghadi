@@ -1,0 +1,136 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "CGPA: 7.21/10"
+      ],
+      "degree": "Bachelor of Computer Science",
+      "department": "Computer Science and Engineering",
+      "duration": "2015-2019",
+      "school_name": "KLS Gogte Institute of Technology - Karnataka, India"
+    },
+    {
+      "awards_achievements": [
+        "GPA: 3.74/4"
+      ],
+      "degree": "Post Graduation",
+      "department": "Web Design and Development",
+      "duration": "2021-2022",
+      "school_name": "Conestoga College - Kitchener, ON, Canada"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi",
+  "highlighted_projects": [
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
+      "name": "Web app for resturant"
+    },
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": null,
+      "name": "Machine Learning"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Implemented a Monitoring Agent tool for the LCA team to track the hardware specifications and software utilization like memory/CPU management and generate reports with the help of the data saved in the database. This tool is developed using Bash Scripts, PostgreSQL, PSQL Client Tool, Docker, and Crontab.",
+      "git_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Samarth Ghadi",
+  "others": [
+    {
+      "bullets": [
+        "Udacity Machine Learning (2019)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Winner"
+      ],
+      "title": "Awards"
+    },
+    {
+      "bullets": [
+        "Skating",
+        "Competitive gaming"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "duration": "2020-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "XYZ Company",
+      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "duration": "2019",
+      "title": "Tutor"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Data Structures",
+      "SQL",
+      "Node.js",
+      "React",
+      "HTML5/CSS3"
+    ],
+    "familiar": [
+      "Docker",
+      "C# .Net",
+      "REST API",
+      "Web Designing",
+      "Bootstrap/Material UI"
+    ],
+    "proficient": [
+      "Java",
+      "OOP",
+      "Linux/Bash",
+      "Agile/Scrum",
+      "Git/Github"
+    ]
+  },
+  "summary": "I am a Computer Science Engineering graduate from Visvesvaraya Technological University (VTU) with a post-graduate Web Design and development certificate from Conestoga College. Implemented Object-Oriented Programming methodologies in Java Programming, developing, debugging, and testing code using IntelliJ IDEA. I worked as a Junior Web Developer at a startup where I Developed Prototypes and wireframes using Photoshop and Figma and translated the designs into code with VS-Code. I have good experience working in Scrum and Agile environments. Ability to self-motivate with a strong desire to learn, adapt and master new technologies and work in a team and self-directed settings."
+}
