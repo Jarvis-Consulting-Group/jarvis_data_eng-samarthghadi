@@ -7,7 +7,7 @@
       "degree": "Bachelor of Computer Science",
       "department": "Computer Science and Engineering",
       "duration": "2015-2019",
-      "school_name": "KLS Gogte Institute of Technology - Karnataka, India"
+      "school_name": "KLS Gogte Institute of Technology, India"
     },
     {
       "awards_achievements": [
@@ -22,19 +22,19 @@
   "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi",
   "highlighted_projects": [
     {
-      "description": "Developed a Weather app utilizing an application programming interface (API) to create an app that provides weather data. The app allows users to search for the current weather by simply entering city names. It accesses weather data through an external weather API. The app fetches information in JSON format, displaying details such as sunset time, humidity, pressure, and location speed. The UI is styled using HTML, CSS, and React.js, with the data fetched from the JSON file dynamically displayed using the useState hook. This app provides a user-friendly interface to access and visualize weather forecasts, enhancing the user experience with real-time weather information.",
+      "description": "Developed a Weather app utilizing an application programming interface (API) that provides weather data. The app allows users to search for the current weather by simply entering city names. It accesses weather data through an external weather API. The app fetches information such as sunset time, humidity, pressure, and wind speed. The UI is styled using HTML, CSS, and React.js, with the data fetched from the JSON file dynamically displayed using the useState hook. This app provides a user-friendly interface to access and visualize weather forecasts, enhancing the user experience with real-time weather information.",
       "git_url": "",
       "name": "Weather App"
     },
     {
-      "description": "Music player app developed using Java is a comprehensive application that allows users to play music, manage albums, create playlists, and control playback options. The application enables users to add songs to their album library and create custom playlists by adding or deleting songs. It incorporates features like playing the next or previous track and repeating songs. The project follows object-oriented principles, utilizing concepts like encapsulation, inheritance, and method overloading. The Java-based music player provides a user-friendly interface, offering a seamless music playback experience with efficient organization and management of music collections.",
+      "description": "This app is developed using Core Java that allows users to play music, manage albums, create playlists, and control playback options. The application enables users to add songs to their album library and create custom playlists by adding or deleting songs. It incorporates features like playing the next or previous track and repeating songs. The project follows object-oriented principles, utilizing concepts like encapsulation, inheritance, and method overloading. The Java-based music player provides a user-friendly interface, offering a seamless music playback experience with efficient organization and management of music collections.",
       "git_url": null,
       "name": "Music Player App"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Implemented a Linux monitoring tool for the Linux cluster administration (LCA) team, enabling real-time monitoring and recording of hardware and software usage across a group of Linux systems. The servers are connected through a switch. The tool collects data on hardware specifications and software utilization, including memory and CPU management. Programmed with bash scripts, automated crontab every minute for data collection, and stored into a dockerized PostgreSQL database. These reports provide valuable insights for the LCA team to decide whether to increase hardware or software specifications for the future. Git was chosen as the version control system to efficiently manage the codebase efficiently, ensuring versioning and collaboration among the team.",
+      "description": "Implemented a Linux monitoring tool for the Linux cluster administration (LCA) team, enabling real-time monitoring and recording of hardware and software usage across a group of Linux systems. The servers are connected through a switch. The tool collects data on hardware specifications and software utilization, including memory and CPU management. Programmed with bash scripts, automated crontab every minute for data collection, and stored into a dockerized PostgreSQL database. These reports provide valuable insights for the LCA team to decide whether to increase hardware or software specifications for the future. Git was chosen as the version control system to manage the code efficiently, ensuring versioning and collaboration among the team.",
       "git_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/linux_sql",
       "name": "Cluster Monitor"
     }
