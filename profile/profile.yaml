@@ -29,9 +29,9 @@ skills:
   # At least 5 skills
   familiar:
     - Python
-    - Jest/Cypress
+    - Jest
+    - Cypress
     - REST API
-    - Node.js
     - Bootstrap/Material UI
 
 # List of Jarvis projects

@@ -85,9 +85,9 @@
     ],
     "familiar": [
       "Python",
-      "Jest/Cypress",
+      "Jest",
+      "Cypress",
       "REST API",
-      "Node.js",
       "Bootstrap/Material UI"
     ],
     "proficient": [
