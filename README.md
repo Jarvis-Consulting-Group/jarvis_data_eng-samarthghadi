@@ -1,14 +1,14 @@
 # Samarth Ghadi . Jarvis Consulting
 
-I am a Computer Science Engineering graduate from Visvesvaraya Technological University (VTU) with a post-graduate Web Design and Development certificate from Conestoga College. My expertise lies in implementing object-oriented programming methodologies in Java, including developing, debugging, and testing code. I have a solid understanding of various programming languages, such as javascript and python. I worked as a Web Developer intern, where I successfully created prototypes, mockups and wireframes using tools like Photoshop and Figma, translating designs into functional code. I possess valuable experience working in Agile and Scrum environments, enabling efficient collaboration and adaptability. I am highly self-motivated, with a solid drive to continuously learn, adapt, and master new technologies. I thrive both in team-oriented and self-directed settings.
+I am a Computer Science Engineering graduate from Visvesvaraya Technological University (VTU) with a post-graduate Web Design and Development certificate from Conestoga College. My expertise lies in implementing object-oriented programming methodologies in JavaScript/TypeScript, including developing, debugging, and testing code. I have a solid understanding of various programming languages, such as java and python. I worked as a Web Developer intern, where I successfully created prototypes, mockups and wireframes using tools like Photoshop and Figma, translating designs into functional code. I possess valuable experience working in Agile and Scrum environments, enabling efficient collaboration and adaptability. I am highly self-motivated, with a solid drive to continuously learn, adapt, and master new technologies. I thrive both in team-oriented and self-directed settings.
 
 ## Skills
 
-**Proficient:** Java, Javascript, Linux/Bash, Agile/Scrum, Git/Github
+**Proficient:** JavaScript, Angular, Node/Express, Java, Linux/Bash, Agile/Scrum, Git/Github
 
 **Competent:** SQL/RDBMS, Docker, Web Designing/Photoshop, React, HTML5/CSS3
 
-**Familiar:** Python, C#, REST API, Node.js, Bootstrap/Material UI
+**Familiar:** Python, Jest, Cypress, REST API, Bootstrap/Material UI
 
 ## Jarvis Projects
 
