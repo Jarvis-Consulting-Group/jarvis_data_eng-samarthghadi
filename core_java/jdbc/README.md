@@ -9,7 +9,7 @@ The key features and technologies utilized in this application are as follows:
 - Dbeaver
 # Implementaiton
 ## ER Diagram
-![ER-Diagram.png](jdbc%2Fassets%2FER-Diagram.png)
+![ER-Diagram.png](assets%2FER-Diagram.png)
 
 ## Design Patterns
 The DAO Design Pattern comprises three main components, with an optional HTTP helper class. The driver component manages the database connection. The DAO class handles CRUD operations, abstracting SQL queries. The DTO object acts as a container for data exchange between the application and the database. An optional HTTP helper class facilitates communication with external HTTP-based services.
