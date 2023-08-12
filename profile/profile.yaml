@@ -5,17 +5,17 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am a Computer Science Engineering graduate from Visvesvaraya Technological University (VTU) with a post-graduate Web Design and Development certificate from Conestoga College. My expertise lies in implementing object-oriented programming methodologies in JavaScript/TypeScript, including developing, debugging, and testing code. I have a solid understanding of various programming languages, such as java and python. I worked as a Web Developer intern, where I successfully created prototypes, mockups and wireframes using tools like Photoshop and Figma, translating designs into functional code. I possess valuable experience working in Agile and Scrum environments, enabling efficient collaboration and adaptability. I am highly self-motivated, with a solid drive to continuously learn, adapt, and master new technologies. I thrive both in team-oriented and self-directed settings.
+summary: I am a Computer Science Engineering graduate from Visvesvaraya Technological University (VTU) with a post-graduate Web Design and Development certificate from Conestoga College. My expertise lies in implementing object-oriented programming methodologies in Java, including developing, debugging, and testing code. I have a solid understanding of various programming languages, such as javascript/typescript and python. I worked as a Web Developer intern, where I successfully created prototypes, mockups and wireframes using tools like Photoshop and Figma, translating designs into functional code. I possess valuable experience working in Agile and Scrum environments, enabling efficient collaboration and adaptability. I am highly self-motivated, with a solid drive to continuously learn, adapt, and master new technologies. I thrive both in team-oriented and self-directed settings.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - JavaScript
-    - Angular
-    - Node/Express
     - Java
+    - JavaScript
+    - Node/Express
+    - Angular
     - Linux/Bash
     - Agile/Scrum
     - Git/Github
@@ -41,12 +41,13 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Implemented a Linux monitoring tool for the Linux cluster administration (LCA) team, enabling real-time monitoring and recording of hardware and software usage across a group of Linux systems. The servers are connected through a switch. The tool collects data on hardware specifications and software utilization, including memory and CPU management. Programmed with bash scripts, automated crontab every minute for data collection, and stored into a dockerized PostgreSQL database. These reports provide valuable insights for the LCA team to decide whether to increase hardware or software specifications for the future. Git was chosen as the version control system to manage the code efficiently, ensuring versioning and collaboration among the team.
-  #- name: "Core Java Apps"
-   # git_url: "/core_java"
-   # description:
+  - name: "Core Java Apps"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/core_java"
+    description: JDBC App - Developed a 'Customer Order Processing System' utilizing JDBC, DAO(Data Access Object), and DTO(Data Transfer Object) design patterns. The system interacts with PostgreSQL via JDBC, supporting CRUD operations and benefiting from JDBC's cross-platform compatibility. PSQL Client Tool and DBeaver were employed for database management, while Maven streamlined dependencies. The system's architecture includes a PostgreSQL container facilitated by Docker. IntelliJ served as the IDE for development. This setup ensures seamless access to relational databases. The system excels in processing customer orders, offering read, write, update, and delete functions for RDBMS data manipulation.
     #  - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-     # - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      #- "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+    #- "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+
+
   #- name: "Springboot App"
    # git_url: "/springboot"
     #description: ""
