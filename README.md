@@ -17,7 +17,10 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/linux_sql)]: Implemented a Linux monitoring tool for the Linux cluster administration (LCA) team, enabling real-time monitoring and recording of hardware and software usage across a group of Linux systems. The servers are connected through a switch. The tool collects data on hardware specifications and software utilization, including memory and CPU management. Programmed with bash scripts, automated crontab every minute for data collection, and stored into a dockerized PostgreSQL database. These reports provide valuable insights for the LCA team to decide whether to increase hardware or software specifications for the future. Git was chosen as the version control system to manage the code efficiently, ensuring versioning and collaboration among the team.
 
-**Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/core_java)]: JDBC App - Developed a 'Customer Order Processing System' utilizing JDBC, DAO(Data Access Object), and DTO(Data Transfer Object) design patterns. The system interacts with PostgreSQL via JDBC, supporting CRUD operations and benefiting from JDBC's cross-platform compatibility. PSQL Client Tool and DBeaver were employed for database management, while Maven streamlined dependencies. The system's architecture includes a PostgreSQL container facilitated by Docker. IntelliJ served as the IDE for development. This setup ensures seamless access to relational databases. The system excels in processing customer orders, offering read, write, update, and delete functions for RDBMS data manipulation.
+**Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/core_java)]:
+      
+  - JDBC App: Developed a 'Customer Order Processing System' utilizing JDBC, DAO(Data Access Object), and DTO(Data Transfer Object) design patterns. The system interacts with PostgreSQL via JDBC, supporting CRUD operations and benefiting from JDBC's cross-platform compatibility. PSQL Client Tool and DBeaver were employed for database management, while Maven streamlined dependencies. The system's architecture includes a PostgreSQL container facilitated by Docker. IntelliJ served as the IDE for development. This setup ensures seamless access to relational databases. The system excels in processing customer orders, offering read, write, update, and delete functions for RDBMS data manipulation.
+  - Grep App: A program that simulates the Linux grep command searching for a specified text pattern in an input file.
 
 
 ## Highlighted Projects
@@ -43,6 +46,5 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Miscellaneous
 - Udemy Web Development Certification
-- Reading motivational books
-- Love Roller Skating
-- Competitive Gaming(Mobile Legends, PUBG)
+- Exploring motivational literature to foster personal growth, currently enjoying 'Excuses'
+- Participated in National level Roller Skating Championship

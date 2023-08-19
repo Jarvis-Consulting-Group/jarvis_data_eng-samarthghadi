@@ -39,7 +39,10 @@
       "name": "Cluster Monitor"
     },
     {
-      "description": "JDBC App - Developed a 'Customer Order Processing System' utilizing JDBC, DAO(Data Access Object), and DTO(Data Transfer Object) design patterns. The system interacts with PostgreSQL via JDBC, supporting CRUD operations and benefiting from JDBC's cross-platform compatibility. PSQL Client Tool and DBeaver were employed for database management, while Maven streamlined dependencies. The system's architecture includes a PostgreSQL container facilitated by Docker. IntelliJ served as the IDE for development. This setup ensures seamless access to relational databases. The system excels in processing customer orders, offering read, write, update, and delete functions for RDBMS data manipulation.",
+      "description": [
+        "JDBC App: Developed a 'Customer Order Processing System' utilizing JDBC, DAO(Data Access Object), and DTO(Data Transfer Object) design patterns. The system interacts with PostgreSQL via JDBC, supporting CRUD operations and benefiting from JDBC's cross-platform compatibility. PSQL Client Tool and DBeaver were employed for database management, while Maven streamlined dependencies. The system's architecture includes a PostgreSQL container facilitated by Docker. IntelliJ served as the IDE for development. This setup ensures seamless access to relational databases. The system excels in processing customer orders, offering read, write, update, and delete functions for RDBMS data manipulation.",
+        "Grep App: A program that simulates the Linux grep command searching for a specified text pattern in an input file."
+      ],
       "git_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/core_java",
       "name": "Core Java Apps"
     }
@@ -54,14 +57,13 @@
     },
     {
       "bullets": [
-        "Reading motivational books"
+        "Exploring motivational literature to foster personal growth, currently enjoying 'Excuses'"
       ],
       "title": "Awards"
     },
     {
       "bullets": [
-        "Love Roller Skating",
-        "Competitive Gaming(Mobile Legends, PUBG)"
+        "Participated in National level Roller Skating Championship"
       ],
       "title": "Activities/Hobbies"
     }
