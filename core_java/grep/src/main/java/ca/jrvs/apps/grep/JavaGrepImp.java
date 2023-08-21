@@ -67,8 +67,12 @@ public class JavaGrepImp implements JavaGrep {
      */
     List<File> files = new ArrayList<>();
     File file = new File(rootDir);
-    for(File eachFile: file.listFiles()) {
-      files.add(eachFile);
+    if (file.isDirectory()) {  // Check if it's a directory
+      for (File eachFile : file.listFiles()) {
+        if (eachFile.isFile()) {  // Add only files, not directories
+          files.add(eachFile);
+        }
+      }
     }
     return files;
   }
