@@ -41,7 +41,7 @@
     {
       "description": [
         "JDBC App: Developed a 'Customer Order Processing System' utilizing JDBC, DAO(Data Access Object), and DTO(Data Transfer Object) design patterns. The system interacts with PostgreSQL via JDBC, supporting CRUD operations and benefiting from JDBC's cross-platform compatibility. PSQL Client Tool and DBeaver were employed for database management, while Maven streamlined dependencies. The system's architecture includes a PostgreSQL container facilitated by Docker. IntelliJ served as the IDE for development. This setup ensures seamless access to relational databases. The system excels in processing customer orders, offering read, write, update, and delete functions for RDBMS data manipulation.",
-        "Grep App: A program that simulates the Linux grep command searching for a specified text pattern in an input file."
+        "Grep App: Developed a Grep app using tools like ArrayList, FileReader, FileWriter, BufferedReader, BufferedWriter, and Regex Pattern. To find a user-specified text pattern, it scans a chosen main folder, including files and subfolders. Using Maven and Docker, deployment is straightforward. The app extracts matching lines from files, compiling them into a text file for later use."
       ],
       "git_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-samarthghadi/tree/master/core_java",
       "name": "Core Java Apps"
