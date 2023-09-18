@@ -384,7 +384,7 @@ public class IexQuote {
         this.lastTradeTime = lastTradeTime;
     }
 
-    public int getLatestPrice() {
+    public double getLatestPrice() {
         return latestPrice;
     }
 
